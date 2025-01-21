@@ -143,6 +143,10 @@ Triangle (Horizontal, Red, Dotted)
 
 I’d love to have you walk through the thread of logic I presented, and its supporting tools and come to your conclusions. Hopefully, that can open up a discussion and create new paths of thought. I am just super curious to see if this is anything interesting. Thanks for reading this and letting your brain take the journey.
 
+I think this is the reason why libraries like SynthLang are so mysteriously powerful: https://github.com/ruvnet/SynthLang
+
+Here is the most concise way I've been able to convey the logic and underlying hypothesis that governs all of this stuff. A long-form post can be found at this link if you're curious: https://huggingface.co/blog/Severian/computational-model-for-symbolic-representations
+
 Here are a handful of follow-up questions I created and used during the process to try to add at least some sort of objectivity and attempt to mitigate confirmation bias, whether it’s a solid way to verify anything is definitely a murky topic due to how LLMs inherently work and generate, though.
 
 ---
