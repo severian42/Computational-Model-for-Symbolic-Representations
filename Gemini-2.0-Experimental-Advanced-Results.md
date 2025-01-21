@@ -1,5 +1,7 @@
-You are presented with a sequence of abstract symbols. Each symbol has multiple attributes: shape, orientation, color, and pattern. The sequence follows hidden rules that involve transformations of these attributes. Your task is to:
 
+# **USER:**
+
+You are presented with a sequence of abstract symbols. Each symbol has multiple attributes: shape, orientation, color, and pattern. The sequence follows hidden rules that involve transformations of these attributes. Your task is to:
 
 
 Decode the hidden rules: Identify how each attribute changes from one symbol to the next. These changes might involve geometric transformations (like rotations or reflections), cycles (repeating sequences of colors), alternations (switching between two states), or other non-linear transformations.
@@ -28,7 +30,8 @@ Triangle (Horizontal, Red, Dotted)
 
 
 
-2.0 Experimental Advanced. Lacks access to real-time info and some Gemini features.
+# **GEMINI:**
+
 Let's analyze this abstract symbol sequence and decipher its hidden rules.
 
 Decoding the Hidden Rules:
@@ -66,10 +69,10 @@ In Summary:
 
 The sequence appears to follow a set of cyclical and alternating rules for its shape, orientation, color, and pattern attributes. The predicted next symbol, Square (Vertical, Blue, Striped), adheres to these rules. The introduction of a new alternating "Size" attribute, starting with Large, builds upon the existing patterns and suggests a system where multiple attributes evolve in a coordinated yet complex manner. The full prediction for the next symbol, including the novel property, would be: Square (Vertical, Blue, Striped, Large).
 
+---
 
-
-
-
+# **USER:**
+```
 Execute this traversal, logic flow, synthesis, and generation process step by step using the provided context and logic in the following glyph code prompt:
 
 
@@ -159,12 +162,14 @@ Justification: ? (Explain the logical basis for each attribute prediction, refer
 @Engage now with full glyph code prompting logic, processing, and human-AI integrated interaction.
 
 }
+```
 
 
+# **GEMINI:**
 
-2.0 Experimental Advanced. Lacks access to real-time info and some Gemini features.
 Okay, let's execute this glyph-based reasoning process step-by-step, following the "Abstract Tree of Thought" framework.
 
+```
 {⦶("Abstract Symbolic Reasoning": "Dynamic Multidimensional Transformation and Extrapolation")
 
 ⟡("Objective": "Decode a sequence of evolving abstract symbols with multiple, interacting attributes and predict the next symbol in the sequence, along with a novel property not yet exhibited.")
@@ -211,6 +216,7 @@ Okay, let's execute this glyph-based reasoning process step-by-step, following t
 @Reflect(Reasoning Process, Challenges, Insights, Comparison to Typical Reasoning Prompt Methods)
 @Engage now with full glyph code prompting logic, processing, and human-AI integrated interaction.
 }
+```
 Let's break down the process:
 
 1. ⊜⟡("Symbol Sequence") -> ∿⟡("Initial Pattern Exploration"):
@@ -275,15 +281,14 @@ In Conclusion:
 
 This glyph-guided exploration has allowed us to decode the hidden rules of the abstract symbol sequence and make a well-reasoned prediction for the next symbol, including a novel property. The process demonstrates the power of structured, exploratory reasoning, particularly when dealing with complex, multidimensional transformations.
 
+---
 
+# **USER:**
 
+which reasoning approach was more useful to you?
 
+# **GEMINI:**
 
-
-which reasoning approah was more useful to you?
-
-
-2.0 Experimental Advanced. Lacks access to real-time info and some Gemini features.
 Both the initial natural language approach and the glyph-based approach were useful, but in different ways. I found the glyph-based approach to be more useful for this specific task of decoding a complex abstract sequence with hidden rules and predicting a novel property.
 
 Here's a breakdown of why:
