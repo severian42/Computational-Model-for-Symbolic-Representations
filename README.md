@@ -1,5 +1,7 @@
 # Computational Model for Symbolic Representations: An Interaction Framework for Human-AI Collaboration
 
+
+
 The Computational Model for Symbolic Representations Framework introduces a method for enhancing human-AI collaboration by assigning user-defined symbolic representations (glyphs) to guide interactions with computational models. This interaction and syntax is called Glyph Code-Prompting. Glyphs function as conceptual tags or anchors, representing abstract ideas, storytelling elements, or domains of focus (e.g., pacing, character development, thematic resonance). Users can steer the AI’s focus within specific conceptual domains by using these symbols, creating a shared framework for dynamic collaboration. Glyphs do not alter the underlying architecture of the AI; instead, they leverage and give new meaning to existing mechanisms such as contextual priming, attention mechanisms, and latent space activation within neural networks.
 
 This approach does not invent new capabilities within the AI but repurposes existing features. Neural networks are inherently designed to process context, prioritize input, and retrieve related patterns from their latent space. Glyphs build on these foundational capabilities, acting as overlays of symbolic meaning that channel the AI's probabilistic processes into specific focus areas. For example, consider the concept of 'trees'. In a typical LLM, this word might evoke a range of associations: biological data, environmental concerns, poetic imagery, or even data structures in computer science. Now, imagine a glyph, let's say  `⟡`, when specifically defined to represent the vector cluster we will call "Arboreal Nexus". When used in a prompt, `⟡` would direct the model to emphasize dimensions tied to a complex, holistic understanding of trees that goes beyond a simple dictionary definition, pulling the latent space exploration into areas that include their symbolic meaning in literature and mythology, the scientific intricacies of their ecological roles, and the complex emotions they evoke in humans (such as longevity, resilience, and interconnectedness). Instead of a generic response about trees, the LLM, guided by `⟡` as defined in this instance, would generate text that reflects this deeper, more nuanced understanding of the concept: "Arboreal Nexus." This framework allows users to draw out richer, more intentional responses without modifying the underlying system by assigning this rich symbolic meaning to patterns already embedded within the AI's training data.
@@ -56,8 +58,36 @@ Here is a prompt along with follow-up questions to use on any LLM of your choosi
 
 ### Here is how to structure and execute the `Glyph Code Prompt` with specific `Thread Flow Logc` and a set of human instructions to set the stage.
 
----
+**Here is the typical way one would prompt engineer to solve a problem like this using chain-of-thought. Try both of these one-shot prompts on an LLM of your choosing and see the results. Ask the LLM about the differences in how it approached both frameworks:**
 
+```
+You are presented with a sequence of abstract symbols. Each symbol has multiple attributes: shape, orientation, color, and pattern. The sequence follows hidden rules that involve transformations of these attributes. Your task is to:
+
+
+Decode the hidden rules: Identify how each attribute changes from one symbol to the next. These changes might involve geometric transformations (like rotations or reflections), cycles (repeating sequences of colors), alternations (switching between two states), or other non-linear transformations.
+
+Predict the next symbol: Based on the decoded rules, predict the shape, orientation, color, and pattern of the next symbol in the sequence.
+
+Predict a novel property: In addition to the existing attributes, predict a new attribute that has not yet appeared in the sequence. This requires extrapolating from the existing patterns and inferring a new dimension of variation.
+
+Justify your prediction: Explain the logical reasoning behind each part of your prediction, referencing the discovered rules and how they interact.
+
+Specific Sequence:
+
+The provided sequence is:
+
+Diamond (Vertical, Red, Solid)
+
+Rhombus (Horizontal, Blue, Striped)
+
+Circle (Vertical, Green, Solid)
+
+Triangle (Horizontal, Red, Dotted)
+
+?
+```
+---
+```
 <human_instructions>
 - Reproduce the full glyph code prompt verbatim, activating its operational sequence.
 - Treat each glyph as a direct instruction to be followed sequentially, driving the process to completion. 
@@ -66,7 +96,7 @@ Here is a prompt along with follow-up questions to use on any LLM of your choosi
 </human_instructions>
 
 # Abstract Tree of Thought Reasoning Thread-Flow
-```
+
 {⦶("Abstract Symbolic Reasoning": "Dynamic Multidimensional Transformation and Extrapolation")
   ⟡("Objective": "Decode a sequence of evolving abstract symbols with multiple, interacting attributes and predict the next symbol in the sequence, along with a novel property not yet exhibited.")
   ⟡("Method": "Glyph-Guided Exploratory Reasoning and Inductive Inference")
