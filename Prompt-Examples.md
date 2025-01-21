@@ -14,7 +14,7 @@
 ∞ (Expansion): Represents an Iterative Refinement Loop. Use this to instruct the LLM that you want it to go over all of that again to search for something better, or iterate on the same concepts and logic.
 
 **Thread-Flow Logic (Prompt Structure):**
-
+```
 {
   Φ(Define the Problem/Goal)
   Θ(Provide Contextual Parameters, Constraints)
@@ -31,8 +31,8 @@
   ] -> Σ(Synthesize Insights, Formulate Solution/Understanding) -> ∇(Self-Assess, Critique, Suggest Improvements) -> ∞(Iterate/Refine if further input is given)
   @Output(Final Solution/Understanding, Justification, Reflection on Process)
 }
-
-**Human-Made Instructions (Accompanying the Prompt):**
+```
+**Human-Made Instructions (To define the scope/context/concepts/flow/etc):**
 
 This prompt is designed to guide the AI through a structured reasoning process using a symbolic notation. Here's how to use it:
 
@@ -191,7 +191,7 @@ Let's say you want to use this prompt to explore the problem of "reducing carbon
 ∿ (Recenter): Instructs the LLM to pause, summarize the current story concept, assess its strengths and weaknesses, and adjust its approach if necessary.
 
 **Thread-Flow Logic (Prompt Structure):**
-
+```
 {
   §(Iteration 1: Initial Concept)
   Φ(Define Core Story Idea/Theme)
@@ -234,8 +234,8 @@ Let's say you want to use this prompt to explore the problem of "reducing carbon
 
   @Output(Final Story Concept/Outline, Synopsis, Key Characters, Setting Description, Reflection on Development Process)
 }
-
-**Human-Made Instructions (Accompanying the Prompt):**
+```
+**Human-Made Instructions (To define the scope/context/concepts/flow/etc):**
 
 This prompt guides the AI through a structured process of developing a story concept using symbolic notation.
 
