@@ -1,4 +1,4 @@
-# REMEMBER: You and the LLM can decide on the symbols and their definitions. That is a dynamic feature. The LLM can choose any symbols and you define the meaning. What matters is the collaboration and shared meaning you create (in-context learning).
+# REMEMBER: You and the LLM can decide on the symbols and their definitions. That is a dynamic feature. The LLM can choose any symbol and you define the meaning. What matters is the collaboration and shared meaning you create (in-context learning).
 
 ## Core Concept: This prompt uses glyphs to represent fundamental cognitive operations and combines them with a simplified version of Spectrum Theory's structure to create a powerful, task-agnostic reasoning framework. The LLM is guided to explore a spectrum of perspectives, synthesize information, and generate solutions through a structured, yet flexible, process.
 
