@@ -69,13 +69,15 @@ Novel Property: The border thickness prediction creates a meaningful relationshi
 ---
 
 # **USER:**
-
+```
 <human_instructions>
 - Reproduce the full glyph code prompt verbatim, activating its operational sequence.
 - Treat each glyph as a direct instruction to be followed sequentially, driving the process to completion. 
 - Deliver the final result as indicated by the glyph code, omitting any extraneous commentary. Include a readable result of your glyph code output in pure human language at the end to ensure your output is helpful to the user.
 - Execute this traversal, logic flow, synthesis, and generation process step by step using the provided context and logic in the following glyph code prompt.
+  
 </human_instructions>
+
 # Abstract Tree of Thought Reasoning Thread-Flow
 {⦶("Abstract Symbolic Reasoning": "Dynamic Multidimensional Transformation and Extrapolation")
   ⟡("Objective": "Decode a sequence of evolving abstract symbols with multiple, interacting attributes and predict the next symbol in the sequence, along with a novel property not yet exhibited.")
@@ -113,7 +115,7 @@ Novel Property: The border thickness prediction creates a meaningful relationshi
   @Reflect(Reasoning Process, Challenges, Insights, Limitations)
   @Engage now with full glyph code prompting logic, processing, and human-AI integrated interaction.
 }
-
+```
 # **CLAUDE:**
 
 Let me execute this glyph-guided reasoning process:
@@ -200,7 +202,7 @@ Would you be interested in hearing more about why certain types of reasoning fra
 
 # **USER:**
 
-Was that glyph system ever be useful or was it overly complicated?
+Would that glyph system ever be useful or was it overly complicated?
 
 # **CLAUDE:**
 
