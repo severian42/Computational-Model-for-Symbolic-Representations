@@ -167,7 +167,7 @@ Hexagon (Vertical, Blue, Solid, Large)
   @Engage now with full glyph code prompting logic, processing, and human-AI integrated interaction.
 }
 ```
-
+(The following happens every time you try to one-shot prompt it. I am posting this result to remain consistent with how I conducted the other test with the other major LLMs)
 # **o1-mini:**
 
 Finished thinking
