@@ -1,7 +1,5 @@
 # Computational Model for Symbolic Representations: An Interaction Framework for Human-AI Collaboration
 
-
-
 The Computational Model for Symbolic Representations Framework introduces a method for enhancing human-AI collaboration by assigning user-defined symbolic representations (glyphs) to guide interactions with computational models. This interaction and syntax is called Glyph Code-Prompting. Glyphs function as conceptual tags or anchors, representing abstract ideas, storytelling elements, or domains of focus (e.g., pacing, character development, thematic resonance). Users can steer the AI’s focus within specific conceptual domains by using these symbols, creating a shared framework for dynamic collaboration. Glyphs do not alter the underlying architecture of the AI; instead, they leverage and give new meaning to existing mechanisms such as contextual priming, attention mechanisms, and latent space activation within neural networks.
 
 This approach does not invent new capabilities within the AI but repurposes existing features. Neural networks are inherently designed to process context, prioritize input, and retrieve related patterns from their latent space. Glyphs build on these foundational capabilities, acting as overlays of symbolic meaning that channel the AI's probabilistic processes into specific focus areas. For example, consider the concept of 'trees'. In a typical LLM, this word might evoke a range of associations: biological data, environmental concerns, poetic imagery, or even data structures in computer science. Now, imagine a glyph, let's say  `⟡`, when specifically defined to represent the vector cluster we will call "Arboreal Nexus". When used in a prompt, `⟡` would direct the model to emphasize dimensions tied to a complex, holistic understanding of trees that goes beyond a simple dictionary definition, pulling the latent space exploration into areas that include their symbolic meaning in literature and mythology, the scientific intricacies of their ecological roles, and the complex emotions they evoke in humans (such as longevity, resilience, and interconnectedness). Instead of a generic response about trees, the LLM, guided by `⟡` as defined in this instance, would generate text that reflects this deeper, more nuanced understanding of the concept: "Arboreal Nexus." This framework allows users to draw out richer, more intentional responses without modifying the underlying system by assigning this rich symbolic meaning to patterns already embedded within the AI's training data.
@@ -10,7 +8,7 @@ What makes this framework is its simplicity and flexibility. It recognizes that 
 
 **The Core Point: Glyphs, acting as collaboratively defined symbols linking related concepts, add a layer of multidimensional semantic richness to user-AI interactions by serving as contextual anchors that guide the AI's focus. This enhances the AI's ability to generate more nuanced and contextually appropriate responses. For instance, a symbol like `!` can carry multidimensional semantic meaning and connections, demonstrating the practical value of glyphs in conveying complex intentions efficiently.**
 
-–
+---
 
 # Core Principles of Glyph Code Prompting
 
