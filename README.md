@@ -1,6 +1,7 @@
 # Computational Model for Symbolic Representations: An Interaction Framework for Human-AI Collaboration
 
 ```
+     **Visualization of Latent Mathematical Pattern Map**
      ⦶ [Context Boundary] ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
      ∥                                              ∥
      ∥    ∿∿∿     g⃗1     ∿∿∿      g⃗2      ∿∿∿     ∥
