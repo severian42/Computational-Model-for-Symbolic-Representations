@@ -14,27 +14,27 @@ What makes this framework is its simplicity and flexibility. It recognizes that 
 
 **Glyphs**
 
-Definition: Visual symbols representing fundamental concepts. Each glyph is augmented by a natural language description.
+- Definition: Visual symbols representing fundamental concepts. Each glyph is augmented by a natural language description.
 
 **Structure**
 
-Flow-Based and Relational: Utilizes a clear syntax to represent the flow of information and reasoning, allowing for complex relational mappings between concepts.
+- Flow-Based and Relational: Utilizes a clear syntax to represent the flow of information and reasoning, allowing for complex relational mappings between concepts.
 
 **Human-Readable**
 
-Intuitive Design: Engineered to be easy to learn and understand for humans, with natural language descriptions providing further clarification.
+- Intuitive Design: Engineered to be easy to learn and understand for humans, with natural language descriptions providing further clarification.
 
 **AI-Processable**
 
-Efficiency: Structured to allow efficient processing and interpretation by AI systems without necessitating changes to the underlying architecture.
+- Efficiency: Structured to allow efficient processing and interpretation by AI systems without necessitating changes to the underlying architecture.
 
 **Latent Space Mapping**
 
-Integration: Glyphs and their combinations are designed to map onto and interact with the AI's internal knowledge representation, leveraging existing latent space mechanisms.
+- Integration: Glyphs and their combinations are designed to map onto and interact with the AI's internal knowledge representation, leveraging existing latent space mechanisms.
 
 **Multi-Level Synthesis**
 
-Macro and Micro Levels: Facilitates the synthesis of information at both general principles (macro) and specific details (micro), enabling comprehensive understanding and innovation
+- Macro and Micro Levels: Facilitates the synthesis of information at both general principles (macro) and specific details (micro), enabling comprehensive understanding and innovation
 
 ---
 
