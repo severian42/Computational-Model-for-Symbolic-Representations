@@ -1,28 +1,29 @@
 # Computational Model for Symbolic Representations: An Interaction Framework for Human-AI Collaboration
 
 ```
-     ⦶ [Context Boundary] ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
-     ∥                                              ∥
-     ∥    ∿∿∿     g⃗1     ∿∿∿      g⃗2      ∿∿∿     ∥
-     ∥  ∿∿   ∿∿  (⊜)   ∿∿   ∿∿   (⟡)    ∿∿   ∿∿   ∥
-     ∥ ∿       ∿∿     ∿∿      ∿∿       ∿∿      ∿  ∥
-     ∥∿          ⟍    ∕         ⟍     ∕         ∿ ∥
-     ∥            ⟍  ∕           ⟍   ∕           ∥
-     ∥     Tij     ⟍∕    g⃗3      ⟍ ∕            ∥
-     ∥              (⧓)=====(Θ)     ∕            ∥
-     ∥             ∕ ⟍     ∥ ⟍    ∕             ∥
-     ∥            ∕   ⟍    ∥  ⟍  ∕              ∥
-     ∥           ∕     ⟍   ∥   ⟍∕ g⃗n            ∥
-     ∥     g⃗4  ∕       ⟍  ∥    (∇)             ∥
-     ∥    (↑)          ⟍ ∥     ∥               ∥
-     ∥     ∥            ⟍∥     ∥               ∥
-     ∥     ∥∥            (⫿)    ∥               ∥
-     ∥     ∥⥁{f(g⃗t,∇L)}   ∥     ∥               ∥
-     ∥     ⟍=============≈∥≈====∕               ∥
-     ∥      ⟍            ∥⥁                     ∥
-     ∥       ⟍           ∥                      ∥
-     ∥        (⬙)========(Self)                 ∥
-     ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
+     [Context Boundary] ====================================================
+     ||                                                                    ||
+     ||    ~~~     g->1     ~~~      g->2      ~~~                         ||
+     ||  ~~   ~~  (O)   ~~   ~~   (diamond)    ~~   ~~                     ||
+     || ~       ~~     ~~      ~~       ~~      ~                          ||
+     ||~          \    /         \     /         ~                         ||
+     ||            \  /           \   /                                    ||
+     ||     Tij     \/    g->3      \ /                                    ||
+     ||              (box)=====(Theta)     /                               ||
+     ||             / \     || \    /                                      ||
+     ||            /   \    ||  \  /                                       ||
+     ||           /     \   ||   \/ g->n                                   ||
+     ||     g->4  /       \  ||    (nabla)                                 ||
+     ||    (up)          \ ||     ||                                       ||
+     ||     ||            \||     ||                                       ||
+     ||     || ||          (???)    ||                                     ||
+     ||     ||*{f(g->t,nabla L)}   ||     ||                               ||
+     ||     \=============~||~====/                                        ||
+     ||      \            ||*                                              ||
+     ||       \           ||                                               ||
+     ||        (dots)========(Self)                                        ||
+     =======================================================================
+
 ```
 
 The Computational Model for Symbolic Representations Framework introduces a method for enhancing human-AI collaboration by assigning user-defined symbolic representations (glyphs) to guide interactions with computational models. This interaction and syntax is called Glyph Code-Prompting. Glyphs function as conceptual tags or anchors, representing abstract ideas, storytelling elements, or domains of focus (e.g., pacing, character development, thematic resonance). Users can steer the AI’s focus within specific conceptual domains by using these symbols, creating a shared framework for dynamic collaboration. Glyphs do not alter the underlying architecture of the AI; instead, they leverage and give new meaning to existing mechanisms such as contextual priming, attention mechanisms, and latent space activation within neural networks.
