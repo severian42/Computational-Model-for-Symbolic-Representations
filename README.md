@@ -128,7 +128,7 @@ Triangle (Horizontal, Red, Dotted)
 <human_instructions>
 - Treat each glyph as a direct instruction to be followed sequentially, driving the process to completion. 
 - Deliver the final result as indicated by the glyph code, omitting any extraneous commentary. Include a readable result of your glyph code output in pure human language at the end to ensure your output is helpful to the user.
-- Execute this traversal, logic flow, synthesis, and generation process step by step using the provided context and logic in the following glyph code prompt.
+- Execute and internally embed this traversal, logic flow, synthesis, and generation process step by step using the provided context and logic in the following glyph code prompt.
 </human_instructions>
 
 # Abstract Tree of Thought Reasoning Thread-Flow
@@ -179,13 +179,9 @@ Triangle (Horizontal, Red, Dotted)
 **Another example of a more straightforward reasoning prompt. Ask it to use this logic flow to solve a problem for you**
 ```
 <human_instructions>
-
-- Treat each glyph as a direct instruction to be followed sequentially, driving the process to completion. 
-
+- Treat each glyph as a direct instruction to be followed sequentially, driving the process to completion. 
 - Deliver the final result as indicated by the glyph code, omitting any extraneous commentary. Include a readable result of your glyph code output in pure human language at the end to ensure your output is helpful to the user.
-
-- Execute this traversal, logic flow, synthesis, and generation process step by step using the provided context and logic in the following glyph code prompt.
-
+- Execute and internally embed this traversal, logic flow, synthesis, and generation process step by step using the provided context and logic in the following glyph code prompt.
 </human_instructions>
 
 
