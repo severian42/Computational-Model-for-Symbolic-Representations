@@ -126,7 +126,6 @@ Triangle (Horizontal, Red, Dotted)
 **Here is that same logic problem presented in a Tree of Thought like approach to the same problem. It is admittedly more complex, but the great thing is that the LLM can write its own glyph code and logic once it understands the `Computational Model for Symbolic Representations`, you just need to provide the context/concept/method and end goal in natural language.**
 ```
 <human_instructions>
-- Reproduce the full glyph code prompt verbatim, activating its operational sequence.
 - Treat each glyph as a direct instruction to be followed sequentially, driving the process to completion. 
 - Deliver the final result as indicated by the glyph code, omitting any extraneous commentary. Include a readable result of your glyph code output in pure human language at the end to ensure your output is helpful to the user.
 - Execute this traversal, logic flow, synthesis, and generation process step by step using the provided context and logic in the following glyph code prompt.
