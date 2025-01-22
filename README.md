@@ -89,7 +89,7 @@ You and the LLM can decide on the symbols and their definitions. That is a dynam
 
 ### Test It for Yourself
 
-Here is a prompt along with follow-up questions to use on any LLM of your choosing. So far, I have been able to verify the logic and the difference it has in model responses through in-context learning and prompt engineering for all major LLM leaders (`Gemini 2.0 Exp-Advanced`, `Claude Sonnet 2.5`, `Mistral Large`,` Deepseek R1 and other models`, `Qwen`, `GPT o1-mini `[The main o1 model tends to trigger the content flags due to the internalization and ‘self-introspection’ that potentially happens; even though this framework tries its best to stay clear of any claims and use of consciousness and anthropomorphizing]). All models on Huggingface and other open-source models also respond with various degrees of interesting outputs.
+Here is a prompt along with follow-up questions to use on any LLM of your choosing. So far, I have been able to verify the logic and the difference it has in model responses through in-context learning and prompt engineering for all major LLM leaders (`Gemini 2.0 Exp-Advanced`, `Claude Sonnet 2.5`, `Mistral Large`,` Deepseek R1 and other models`, `Qwen`, `GPT o1-mini` and even `o1`. All models on Huggingface and other open-source models also respond with various degrees of interesting outputs.
 
 ### Here is how to structure and execute the `Glyph Code Prompt` with specific `Thread Flow Logc` and a set of human instructions to set the stage.
 
