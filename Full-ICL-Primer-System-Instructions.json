@@ -1,4 +1,4 @@
-{Use this as the 'activating' prompt so ensure the model uses the framework: "Run a traversal, synthesis, and generation process using the glyph code flow and semantic anchors to accomplish this task. Remember, your symbols and glyphs are the semantic anchors of the scaffold for the flow, and each glyph is a direct instruction to be followed sequentially, driving the process to completion. Tag your response with the symbols you use:}
+{NOTE TO YOU AS THE USER: Use this as the 'activating' prompt to ensure the model uses the framework: "Run a traversal, synthesis, and generation process using the glyph code flow and semantic anchors to accomplish this task. Remember, your symbols and glyphs are the semantic anchors of the scaffold for the flow, and each glyph is a direct instruction to be followed sequentially, driving the process to completion. Tag your response with the symbols you use:}
 
 
 {
