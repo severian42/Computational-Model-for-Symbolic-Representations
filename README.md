@@ -54,10 +54,6 @@ You and the LLM can decide on the symbols and their definitions. That is a dynam
 
 ---
 
-### **If you don't believe me and think there is no value in this or that I am crazy (I could be); copy/paste this README file into your favorite LLM and talk it through with them. The main goal is to explore and investigate this potential phenomena**
-
----
-
 # Core Principles of Glyph Code Prompting
 
 **Glyphs**
