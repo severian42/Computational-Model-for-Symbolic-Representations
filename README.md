@@ -130,7 +130,7 @@ Triangle (Horizontal, Red, Dotted)
 ```
 ---
 
-**Here is that same logic problem presented in a Tree of Thought like approach to the same problem. It is admittedly more complex, but the great thing is that the LLM can write its own glyph code and logic once it understands the `Computational Model for Symbolic Representations`, you just need to provide the context/concept/method and end goal in natural language.**
+**Here is that same logic problem presented in a Tree of Thought like approach. It is admittedly more complex, but the great thing is that the LLM can write its own glyph code and logic once it understands the `Computational Model for Symbolic Representations`, you just need to provide the context/concept/method and end goal in natural language.**
 ```
 <human_instructions>
 - Treat each glyph as a direct instruction to be followed sequentially, driving the process to completion. 
