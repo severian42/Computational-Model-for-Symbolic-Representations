@@ -432,7 +432,7 @@ Final Output:
 ---
 
 ## **User:**
-which reasoning approah was more useful to you?
+which reasoning approach was more useful to you?
 
 ## **LLM:**
 Okay, the user is asking which reasoning approach was more useful to me. Let me start by recalling the two approaches mentioned in the previous interactions.
