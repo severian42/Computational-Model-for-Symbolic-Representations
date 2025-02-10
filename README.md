@@ -52,6 +52,10 @@ You and the LLM can decide on the symbols and their definitions. That is a dynam
 
 **The Core Point: Glyphs, acting as collaboratively defined symbols linking related concepts, add a layer of multidimensional semantic richness to user-AI interactions by serving as contextual anchors that guide the AI's focus. This enhances the AI's ability to generate more nuanced and contextually appropriate responses. For instance, a symbol like `!` can carry multidimensional semantic meaning and connections, demonstrating the practical value of glyphs in conveying complex intentions efficiently.**
 
+**HuggingChat Assistant Version Available too for those who want to try this concept out right away (NOT THE FINE_TUNED VERSION: Uses pure in-context learning through a very detailed and long prompt). Base model is Qwen coder 32B (has the best execution of the symbolic AI over the reasoning models):**
+
+### https://hf.co/chat/assistant/678cfe9655026c306f0a4dab
+
 ---
 
 # Core Principles of Glyph Code Prompting
